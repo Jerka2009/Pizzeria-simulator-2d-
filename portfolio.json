@@ -3,7 +3,8 @@
   "description": "Симулятор пиццерии, готовь, продавай, развивайся! Только для windows!",
   "images": [
     "assets/portfolio/screenshot-1.png",
-    "assets/portfolio/screenshot-2.png"
+    "assets/portfolio/screenshot-2.png",
+    "assets/portfolio/screenshot-3.png"
   ],
   "demo": "https://github.com/Jerka2009/Pizzeria-simulator-2d-/releases/download/1.0.0/Pizzeria_windows.zip",
   "github": "https://github.com/Jerka2009/Pizzeria-simulator-2d-"
